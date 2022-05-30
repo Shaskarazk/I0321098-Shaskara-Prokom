@@ -1,0 +1,6 @@
+Nama: Tina
+umur: 23
+Alamat: Tomok
+Nama: Shaka
+Umur: 19
+Alamat: Cianjur
